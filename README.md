@@ -1,6 +1,6 @@
 <h1>PHP Preistracker  </h1>
               
-Beschreibung: Das Programm sucht auf dem Preisportal Marktguru nach Angeboten in der Nähe. 
+Beschreibung: Das Programm sucht auf dem Preisportal Marktguru nach Angeboten in der Nähe.  
               In der Datendatei "p-track.dat" kann das Programm konfiguriert werden.  
                  Unter [programm] gibst Du Deine Postzeitzahl ein und einen voreingestellten Suchbegriff. 
                  Unter [prospekte] kannst Du beliebig viele URL's zu den Marktprospekten eintragen. 
