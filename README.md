@@ -1,6 +1,6 @@
 <h1>PHP Preistracker  </h1>
 
-<table style="border:0;">
+<table style="border: 0px;">
   <tr>
     <td> Beschreibung:</td>
     <td> Das Programm sucht auf dem Preisportal Marktguru nach Angeboten in der Nähe.</td>
