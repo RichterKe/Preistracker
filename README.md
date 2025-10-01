@@ -7,19 +7,19 @@
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td>In der Datendatei "p-track.dat" kann das Programm konfiguriert werden.</td>
+    <td>In der Datendatei "p-track.dat" kann das Programm konfiguriert werden:</td>
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td>&nbsp;&nbsp; Unter [programm] gibst Du Deine Postzeitzahl ein und einen voreingestellten Suchbegriff.</td>
+    <td>- Unter [programm] gibst Du Deine Postzeitzahl ein und einen voreingestellten Suchbegriff.</td>
   </tr> 
   <tr>
     <td>&nbsp;</td>
-    <td>&nbsp;&nbsp; Unter [prospekte] kannst Du beliebig viele URL's zu den Marktprospekten eintragen.</td>
+    <td>- Unter [prospekte] kannst Du beliebig viele URL's zu den Marktprospekten eintragen.</td>
   </tr>   
   <tr>
     <td>&nbsp;</td>
-    <td>&nbsp;&nbsp; Der Eintrag "*" unter [prospekte] ist reserviert für das Preisportal Marktguru und darf nicht geändert werden. </td>
+    <td>- Der Eintrag "*" unter [prospekte] ist reserviert für das Preisportal Marktguru und darf nicht geändert werden. </td>
   </tr>
   <tr>
     <td>&nbsp;</td>
