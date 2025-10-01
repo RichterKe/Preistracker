@@ -21,6 +21,18 @@
     <td>&nbsp;</td>
     <td>&nbsp;&nbsp; Der Eintrag "*" unter [prospekte] ist reserviert für das Preisportal Marktguru und darf nicht geändert werden. </td>
   </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>  
+  </tr>
+  <tr>
+    <td>Änderungen:</td>
+    <td> Das Programm wurde für die PHP Version 8 angepasst.</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Schwachstelle bei der Parameterübergabe bereinigt. </td> 
+  </tr>
 </table>  
               
 Beschreibung: Das Programm sucht auf dem Preisportal Marktguru nach Angeboten in der Nähe.  
