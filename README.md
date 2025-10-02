@@ -41,4 +41,4 @@ Auf dem Host wird ein Verzeichnis mit dem Namen "trackerdaten" angelegt
 in diesem Verzeichnis werden die Voreinstellungen gespeichert und bei erneutem Aufruf von dort geladen.  
   
                 
-Bei Rückfragen erreicht Ihr mich unter: https://forum.heimnetz.de/
+Bei Rückfragen erreicht Ihr mich unter: https://forum.heimnetz.de/threads/docker-preistracker.7354/
