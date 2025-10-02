@@ -1,0 +1,11 @@
+services:
+  preistracker:
+    image: richterke/preistracker:v3.0
+    container_name: preistracker
+    ports:
+      - 80:80
+    restart: unless-stopped
+    volumes:
+      - ./trackerdaten:/var/www/html/daten:rw
+
+
