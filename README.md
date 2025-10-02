@@ -19,14 +19,15 @@ docker image rm richterke/preistracker:v3.0
 Starten im Webbrowser unter der Adresse "localhost" oder "127.0.0.1"  
   
 Beim ersten Aufruf die Vorgaben einstellen mit dem Button "Vorgaben Editieren".  
-Sektion [programm]  
-  hinter plz schreibst Du Deine Postleitzahl  
-  hinter Suche schreibst Du einen Suchbegiff  
-Sektion [prospekte]  
-  hier kannst Du beliebige Webseiten von Märkten eintragen  
-  Format: <Händler> <url der Webseite>  
-  den Eintrag hintrer "*" darfst Du nicht verändern, der ist für das Preisportal reserviert  
+&nbsp;Sektion [programm]  
+&nbsp;&nbsp;hinter plz schreibst Du Deine Postleitzahl  
+&nbsp;&nbsp;hinter Suche schreibst Du einen Suchbegiff  
+&nbsp;Sektion [prospekte]  
+&nbsp;&nbsp;hier kannst Du beliebige Webseiten von Märkten eintragen  
+&nbsp;&nbsp;Format: <Händler> <url der Webseite>  
+&nbsp;&nbsp;den Eintrag hintrer "*" darfst Du nicht verändern, der ist für das Preisportal reserviert  
   
+<b>Programmbedienung</b>  
 Unter Produktname trägst Du ein beliebiges Produkt ein.  
 Unter PLZ kannst Du die gewünschte Postleitzahl ändern.  
 Mit der Schaltfläche "Suche starten" wird die Suche gestartet.  
