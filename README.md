@@ -15,9 +15,10 @@ docker compose down
 <b>Image wieder entfernen:</b>  
 docker image rm richterke/preistracker:v3.0  
   
-<b>Bedienung:</b>  
+<b>Starten:</b>  
 Starten im Webbrowser unter der Adresse "localhost" oder "127.0.0.1"  
-  
+
+<b>Konfigurieren:</b>  
 Beim ersten Aufruf die Vorgaben einstellen mit dem Button "Vorgaben Editieren".  
 &nbsp;&nbsp;Sektion [programm]  
 &nbsp;&nbsp;&nbsp;&nbsp;hinter plz schreibst Du Deine Postleitzahl  
